@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Atv8 Ex2 Cpf</string>
+    <string name="nome_aluno">Matheus Augusto Marti</string>
+    <string name="ra_aluno">RA: 1110482313017</string>
+    <string name="titulo">Local de Registro</string>
+    <string name="nome">Nome</string>
+    <string name="cpf">CPF</string>
+    <string name="local">Verificar Local de Registro</string>
+    <string name="voltar">Voltar</string>
+</resources>
